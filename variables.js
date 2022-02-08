@@ -1,4 +1,4 @@
-var mood = "sleepy"
+var mood = "happy"
 var animal = "cat"
 var favoritePieceOfFurniture = "couch"
 
